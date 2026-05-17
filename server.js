@@ -211,3 +211,4 @@ const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, () => {
   console.log(`🚀 Nexora backend running on port ${PORT}`);
+});
